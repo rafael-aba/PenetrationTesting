@@ -6,3 +6,6 @@ getIP_ClassC.sh:
 	saved on file IPs.txt
 	The network must be class C.
 	example: ./getIP_ClassC.sh 192.168.0
+
+verifyPort.py:
+	verify if the port of the given IP is open or closed.
